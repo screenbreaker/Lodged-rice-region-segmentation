@@ -22,8 +22,14 @@ The project is associated with a **custom agricultural dataset** (linked to the 
 It contains annotated images of lodged rice regions and corresponding segmentation masks.
 
 **📌 Usage Restrictions**:  
-1. Access requires prior email application to the corresponding author, including name, institution, research purpose, and intended dataset usage plan.  
-2. 🚫 Commercial use, unauthorized redistribution, modification, or sublicensing of the dataset is strictly prohibited.
+To use the dataset, you must:
+Send an email request to the corresponding author with:
+Your name, institution, and research purpose.
+How you plan to use the dataset.
+Agree to the Dataset Usage Agreement, which prohibits:
+Commercial use without written consent.
+Redistribution of the dataset to third parties.
+Modifying or sublicensing the dataset without permission.
 
 ---
 
