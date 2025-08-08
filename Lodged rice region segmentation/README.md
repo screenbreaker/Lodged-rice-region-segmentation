@@ -1,8 +1,7 @@
----
-
 ## 🚀 Features
 - **Pre-trained model weights** available for reproducibility.  
 - **Custom agricultural dataset** with usage restrictions.  
+
 *** 
 
 ## 📊 Dataset Access
