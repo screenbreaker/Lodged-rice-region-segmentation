@@ -18,7 +18,7 @@ The aim is to support research and applications in lodged rice detection within 
 ---
 
 ### 📂 (2) Dataset Description
-The project is associated with a **custom agricultural dataset** (linked to the `Datasets` directory; the actual dataset structure should be supplemented based on specific organization).  
+The project is associated with a **custom agricultural dataset** (linked to the `Datasets` directory).  
 It contains annotated images of lodged rice regions and corresponding segmentation masks.
 
 **📌 Usage Restrictions**:  
@@ -26,7 +26,8 @@ To use the dataset, you must:
 - Send an email request to the corresponding author with:
 - Your name, institution, and research purpose.
 - How you plan to use the dataset.
-Agree to the Dataset Usage Agreement, which prohibits:
+
+**Agree to the Dataset Usage Agreement, which prohibits:**
 - Commercial use without written consent.
 - Redistribution of the dataset to third parties.
 - Modifying or sublicensing the dataset without permission.
